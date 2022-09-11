@@ -30,7 +30,7 @@ links to install:
 	After installation you can see the window below and start the project
 	
 
-![My Image](../images/1.mysql server image .PNG)
+![](images/https://github.com/Roselin-Joseph/FICTION_BOOKS_DB-SQL-PROJECT/blob/main/images/1.mysql%20server%20Image.PNG)
 
  
  3.Let’s Start
