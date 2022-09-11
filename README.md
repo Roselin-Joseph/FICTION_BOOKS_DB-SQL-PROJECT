@@ -86,22 +86,3 @@ To see more output Images goto: https://github.com/Roselin-Joseph/FICTION_BOOKS_
 
 
 Thank You!
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-                         -
-    
