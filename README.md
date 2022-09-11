@@ -72,7 +72,7 @@ Output Images of tables Created
 
 In the queries.txt file You can see a lot of queries in this section , one example query is shown below
 
-![](images/categories%20table.PNG)
+![](images/c2.PNG)
 
 
 
