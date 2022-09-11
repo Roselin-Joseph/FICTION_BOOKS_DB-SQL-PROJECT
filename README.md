@@ -30,7 +30,7 @@ links to install:
 	After installation you can see the window below and start the project
 	
 
-![My Image](images/1.mysql server image .PNG)
+![My Image](../images/1.mysql server image .PNG)
 
  
  3.Let’s Start
