@@ -1,6 +1,8 @@
 # FICTION_BOOKS_DB-SQL-PROJECT
 
-1. About Project
+About Project
+
+==============
 
 FICTION_BOOKS_DB: A  SQL project to Learn and Understand 
 
@@ -12,7 +14,7 @@ FICTION_BOOKS_DB: A  SQL project to Learn and Understand
 
 •	JOINS AND FILTERS (COMPLEX QUERIES)
 
-3. Install MySql server & workbench and connect them together
+Install MySql server & workbench and connect them together
 
 
 	links to install:
@@ -20,7 +22,7 @@ FICTION_BOOKS_DB: A  SQL project to Learn and Understand
 	After installation you can see the window below and start the project
 
  
-4.Let’s Start
+ Let’s Start
 
 
 It is Begin with creating a  Database called fiction_books and creating two tables named Categories, Books inside it 
