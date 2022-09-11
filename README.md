@@ -30,6 +30,9 @@ links to install:
 	After installation you can see the window below and start the project
 	
 	
+	![alt text](https://github.com/Roselin-Joseph/FICTION_BOOKS_DB-SQL-PROJECT/images/1.mysql server Image.PNG?raw=true)
+	
+	
 	
 
  
