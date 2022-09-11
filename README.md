@@ -1,12 +1,8 @@
 # FICTION_BOOKS_DB-SQL-PROJECT
 
-1. SQL 
+1. About Project
 
-
-2. About Project
-
-
-	FICTION_BOOKS_DB: A project to Learn and Understand 
+FICTION_BOOKS_DB: A  SQL project to Learn and Understand 
 
 •	SQL CURD Operations 
 
@@ -24,7 +20,6 @@
 	After installation you can see the window below and start the project
 
  
-
 4.Let’s Start
 
 
