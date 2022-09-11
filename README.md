@@ -45,6 +45,8 @@ It is Begin with creating a  Database called fiction_books and creating two tabl
 •	Books table includes columns id (primary key), name (name of the book), author, publish_year, categories_id (foreign key : referring id column in  categories table)
 
 
+![](images/diagram.png)
+
 
 
 
