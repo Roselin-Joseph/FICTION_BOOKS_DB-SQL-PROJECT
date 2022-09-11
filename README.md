@@ -1,8 +1,9 @@
 # FICTION_BOOKS_DB-SQL-PROJECT
 
-About Project
+1.About Project
 
-==============
+====================
+
 
 FICTION_BOOKS_DB: A  SQL project to Learn and Understand 
 
@@ -17,9 +18,11 @@ FICTION_BOOKS_DB: A  SQL project to Learn and Understand
 
 
 
-Install MySql server & workbench and connect them together
 
-==========================================================
+2.Install MySql server & workbench and connect them together
+
+==============================================================
+
 
 
 links to install:
@@ -30,7 +33,7 @@ links to install:
 	
 
  
- Let’s Start
+ 3.Let’s Start
  
  ==============
 
