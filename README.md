@@ -47,6 +47,8 @@ It is Begin with creating a  Database called fiction_books and creating two tabl
 
 ![](images/diagram.png)
 
+
+
 4. CURD Operations(Create,Update,Read,Delete)
 
 ===================================================
@@ -58,11 +60,10 @@ Image shows queries to create database and tables
 ![](images/2.data%20base%20and%20table%20created.PNG)
 
 
+
 Output Images of tables Created
 
-![](images/categories%20table.PNG)
-
-![](images/books%20table.PNG)
+![](images/categories%20table.PNG)	![](images/books%20table.PNG)
 
 
 
