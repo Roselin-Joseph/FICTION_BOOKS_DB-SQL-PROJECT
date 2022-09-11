@@ -58,10 +58,6 @@ You can see the complete List of commands/queries for CURD Operations  in the qu
 To see Queries go to: https://github.com/Roselin-Joseph/FICTION_BOOKS_DB-SQL-PROJECT/blob/main/queries.txt
 
 
-To see Some output Images goto: https://github.com/Roselin-Joseph/FICTION_BOOKS_DB-SQL-PROJECT/blob/main/images
-
-
-
 Image shows queries to create database and tables
 
 ![](images/2.data%20base%20and%20table%20created.PNG)
@@ -84,6 +80,12 @@ One example query is shown below
 
 ![](images/c2.PNG)
 
+
+
+To see more output Images goto: https://github.com/Roselin-Joseph/FICTION_BOOKS_DB-SQL-PROJECT/blob/main/images
+
+
+Thank You!
 
 
 
