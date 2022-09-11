@@ -29,8 +29,8 @@ links to install:
 •	Windows Install Wizard: http://bit.ly/2DB2T6D   
 	After installation you can see the window below and start the project
 	
-	
-	![alt text](https://github.com/Roselin-Joseph/FICTION_BOOKS_DB-SQL-PROJECT/images/1.mysql server Image.PNG?raw=true)
+
+![alt text](https://github.com/Roselin-Joseph/FICTION_BOOKS_DB-SQL-PROJECT/images/1.mysql server Image.PNG?raw=true)
 	
 	
 	
