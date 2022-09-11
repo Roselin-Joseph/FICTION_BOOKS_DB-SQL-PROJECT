@@ -55,6 +55,12 @@ It is Begin with creating a  Database called fiction_books and creating two tabl
 
 You can see the complete List of commands/queries for CURD Operations  in the queries.txt file
 
+To see Queries go to: https://github.com/Roselin-Joseph/FICTION_BOOKS_DB-SQL-PROJECT/blob/main/queries.txt
+
+
+To see Some output Images goto: https://github.com/Roselin-Joseph/FICTION_BOOKS_DB-SQL-PROJECT/blob/main/images
+
+
 
 Image shows queries to create database and tables
 
@@ -70,7 +76,11 @@ Output Images of tables Created
 
 5.AGGREGATE FUNCTIONS,JOIN , GROUP BY AND HAVING 
 
-In the queries.txt file You can see a lot of queries in this section , one example query is shown below
+In the queries.txt file You can see a lot of queries in this section
+
+To see goto: To see go to: https://github.com/Roselin-Joseph/FICTION_BOOKS_DB-SQL-PROJECT/blob/main/queries.txt 
+ 
+One example query is shown below
 
 ![](images/c2.PNG)
 
