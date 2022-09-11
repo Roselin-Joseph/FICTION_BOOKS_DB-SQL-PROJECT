@@ -53,7 +53,8 @@ It is Begin with creating a  Database called fiction_books and creating two tabl
 
 ===================================================
 
-You can see the complete List of commands/queries used in the queries file
+You can see the complete List of commands/queries for CURD Operations  in the queries.txt file
+
 
 Image shows queries to create database and tables
 
@@ -64,6 +65,14 @@ Image shows queries to create database and tables
 Output Images of tables Created
 
 ![](images/categories%20table.PNG)	![](images/books%20table.PNG)
+
+
+
+5.AGGREGATE FUNCTIONS,JOIN , GROUP BY AND HAVING 
+
+In the queries.txt file You can see a lot of queries in this section , one example query is shown below
+
+![](images/categories%20table.PNG)
 
 
 
