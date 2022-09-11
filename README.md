@@ -64,7 +64,7 @@ Image shows queries to create database and tables
 
 
 
-Output Images of tables Created
+Output Images of tables Created after inserting values to tables 
 
 ![](images/categories%20table.PNG)	![](images/books%20table.PNG)
 
@@ -78,7 +78,7 @@ Output Images of tables Created
 
 In the queries.txt file You can see a lot of queries in this section
 
-o see Queries go to: https://github.com/Roselin-Joseph/FICTION_BOOKS_DB-SQL-PROJECT/blob/main/queries.txt 
+To see Queries go to: https://github.com/Roselin-Joseph/FICTION_BOOKS_DB-SQL-PROJECT/blob/main/queries.txt 
  
 One example query is shown below
 
