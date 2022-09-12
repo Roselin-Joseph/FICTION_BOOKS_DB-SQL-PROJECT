@@ -7,7 +7,7 @@
 
 FICTION_BOOKS_DB: A  SQL project to Learn and Understand 
 
-•	SQL CURD Operations 
+•	SQL CRUD Operations 
 
 •	PRIMARY KEY & FOREIGN KEY
 
@@ -49,7 +49,7 @@ It is Begin with creating a  Database called fiction_books and creating two tabl
 
 
 
-4. CURD Operations(Create,Update,Read,Delete)
+4. CRUD Operations(Create,Read,Update,Delete)
 
 ===================================================
 
